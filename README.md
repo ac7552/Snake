@@ -1,9 +1,5 @@
 # Snake 
 
-
-## Motivation: 
-    As a huge fan of Super Mario I thought it would be great to add my a personal twist to a classic game. 
-
 ## Languages Used: 
    CSS, Javascript, HTML5 - Canvas 
 
